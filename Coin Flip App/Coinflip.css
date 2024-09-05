@@ -1,0 +1,29 @@
+.CoinFlip {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .CoinFlip h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .CoinFlip button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    margin: 20px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .CoinFlip button:hover {
+    background-color: #45a049;
+  }
+  
+  .CoinFlip p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
